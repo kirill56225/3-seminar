@@ -11,7 +11,7 @@
 ## Branch creating
 * git branch - отображает существуюющие ветки
 * git branch name - создание ветки
-git checkout name - переход в ветку
+* git checkout name - переход в ветку
 ## Branch mergin
 
 ## Conflict
