@@ -8,18 +8,10 @@
 * git checkout master - возврат в актуальную версию файла
 # начало 2 семинара 
 
-<<<<<<< HEAD
-## Branch creating(создание ветки)
-* git  - отображает существуюющие ветки
-* git branch name - создание ветки
-* git checkout name - переход в ветку
-## Branch mergin (слияние ветки)
-=======
 ## Branch creating
 * git branch - отображает существуюющие ветки
 * git branch name - создание ветки
 * git checkout name - переход в ветку
 ## Branch mergin
->>>>>>> creating
 
 ## Conflict
