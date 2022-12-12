@@ -13,5 +13,5 @@
 * git branch name - создание ветки
 * git checkout name - переход в ветку
 ## Branch mergin
-
+* git merge name - слияние ветки
 ## Conflict
