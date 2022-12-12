@@ -9,9 +9,9 @@
 # начало 2 семинара 
 
 ## Branch creating(создание ветки)
-* git branch - отображает существуюющие ветки
-* git branch name - создание ветки
-git checkout name - переход в ветку
+* *git branch1* - отображает существуюющие ветки
+* *git branch name* - создание ветки
+* *git checkout name* - переход в ветку
 ## Branch mergin (слияние ветки)
 
 ## Conflict
